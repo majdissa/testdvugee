@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>//html//</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta charset="utf-8">
+</head>
+
+
+<!--///////////////////////////////////////-->
+
+<body >
+    <header class="mainheader">
+       <img src="imges/blue-modern-glass-buildings-sun-rays-web-header.jpg">
+        <nav><ul>
+     		<li><a href="#">HOME</a></li>
+     		<li><a href="#">ABOUT</a></li>
+     		<li><a href="#">VIDIOS</a></li>
+     		<li><a href="#">CONTACT</a></li>
+        </ul></nav>
+    </header>
+<!--///////////////////////////////////////-->
+     
+       <h1>The Official Page For Learning Programming</h1>
+       <h1><span> الموقع الرسمي لتعلم لغة البرمجة</span></h1>
+
+<!--///////////////////////////////////////-->
+   
+   <div class="maincontent">
+   	<section class="topcontent">
+   		<header>
+   			<h2><a href="#">This Is My Website</a></h2>
+   		</header>
+   		<footer><p class="postinfo">writen by: Majd issa</p>
+	<img src="imges/20638096_1472616042817799_6336383246615457462_n.jpg" >
+   		</footer>
+   		<article>               
+   		<p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+   			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+   			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+   			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+   			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+   			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+   		</article>
+   	</section>
+
+  	<section class="topcontent">
+   		<header>
+   			<h2><a href="#">This Is My Website</a></h2>
+   		</header>
+   		<footer><p class="postinfo">writen by: Majd issa</p>
+        <img src="imges/تعلم-لغات-البرمجة-باللغ-العربية.jpg">
+   		</footer>
+   		<article>               
+   		<p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+   			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+   			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+   			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+   			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+   			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+   		</article>
+   	</section>
+
+   	<section class="topcontent">
+   		<header>
+   			<h2><a href="#">This Is My Website</a></h2>
+   		</header>
+   		<footer><p class="postinfo">writen by: Majd issa</p>
+         <img src="imges/timthumb.jpg">
+   		</footer>
+   		<article>               
+   		<p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+   			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+   			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+   			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+   			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+   			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+   		</article>
+   	</section>
+   </div>
+
+<!--///////////////////////////////////////-->
+   <aside  class="thesidebar">
+	    <article>
+	    <h2><a href="#">first side bar</a></h2>
+	    <p>um dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	   	proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+	    </article>
+    </aside>
+
+    <aside class="thesidebar">
+	    <article >
+	    <h2><a href="#">first side bar</a></h2>
+	        <p>um dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	    	proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p> 
+	    </article>
+    </aside>
+
+    <aside class="thesidebar">
+	    <article >
+	    <h2><a href="#">first side bar</a></h2>
+	      <p>um dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	   	   proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+	    </article>
+    </aside>
+   
+
+
+<footer>
+        <nav class="footer"><ul>
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">ABOUT</a></li>
+        <li><a href="#">VIDIOS</a></li>
+        </ul></nav>
+ </footer>
+
+</body>
+</html>
+
